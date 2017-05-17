@@ -1,0 +1,1 @@
+Git did not try to send the ref at all, typically because it is not a fast-forward and you did not force the update
